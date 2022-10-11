@@ -71,13 +71,3 @@ variable "resource_groups" {
   default = {}
   type    = any
 }
-
-variable "apim" {
-  default = {}
-  type    = any
-}
-
-variable "api_management_api" {
-  default = {}
-  type    = any
-}
